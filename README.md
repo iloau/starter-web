@@ -13,3 +13,6 @@ ASDASD
 
 
 ASDASD
+
+###Copyright
+2014 git.training
